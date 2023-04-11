@@ -119,20 +119,24 @@ plt.show()
 ~~~
 ## Output:
 ## Original Image:
+![jawa](https://user-images.githubusercontent.com/93427255/231221107-f9826f07-7e2a-486e-b330-862f677d756d.png)
 
 
 ## i) Image Translation:
 
+![5 11](https://user-images.githubusercontent.com/93427255/231221185-97095cea-21d9-428d-af3e-d5922bfdd1f0.png)
 
 
 
 ## ii) Image Scaling:
 
+![Uploading 5.12.png…]()
 
 
 
 ## iii) Image shearing:
 
+![Uploading 5.13.png…]()
 
 
 
@@ -143,12 +147,14 @@ plt.show()
 
 ## v) Image Rotation:
 
+![5 15](https://user-images.githubusercontent.com/93427255/231221360-de9bfa00-7464-4473-9fa8-dc00339e6a7f.png)
 
 
 
 ## vi) Image Cropping:
 
 
+![Uploading 5.16.png…]()
 
 
 
