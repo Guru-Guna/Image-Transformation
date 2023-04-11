@@ -119,7 +119,8 @@ plt.show()
 ~~~
 ## Output:
 ## Original Image:
-![jawa](https://user-images.githubusercontent.com/93427255/231221107-f9826f07-7e2a-486e-b330-862f677d756d.png)
+![car_6](https://user-images.githubusercontent.com/93427255/231221848-56d408e7-62f6-4326-8642-89357f7a7339.png)
+
 
 
 ## i) Image Translation:
@@ -130,18 +131,21 @@ plt.show()
 
 ## ii) Image Scaling:
 
-![Uploading 5.12.png…]()
+![5 12](https://user-images.githubusercontent.com/93427255/231221938-c5c326b9-4819-4b81-9763-c4414f33c898.png)
+
 
 
 
 ## iii) Image shearing:
 
-![Uploading 5.13.png…]()
+![5 13](https://user-images.githubusercontent.com/93427255/231222001-87e6bfd4-8b6a-4ccc-9434-932d508cfdfd.png)
+
 
 
 
 ## iv) Image Reflection:
 
+![5 14](https://user-images.githubusercontent.com/93427255/231222062-2cbb9399-34f0-404b-ba9d-a8f6d6279e28.png)
 
 
 
@@ -154,7 +158,7 @@ plt.show()
 ## vi) Image Cropping:
 
 
-![Uploading 5.16.png…]()
+![5 16](https://user-images.githubusercontent.com/93427255/231222104-64ce3dae-b8a4-4e7f-89bc-8453e29cdf92.png)
 
 
 
